@@ -17,3 +17,10 @@ msgstr ""
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
 
+#: view/site-switcher/navigation-link-form/site-switcher.phtml:8
+msgid "Site slug"
+msgstr "Identifiant du site"
+
+#: src/Site/Navigation/Link/SiteSwitcher.php:19
+msgid "Site switcher"
+msgstr "Bascule vers un site"
