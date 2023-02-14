@@ -54,6 +54,7 @@ Check out my other Omeka-S modules:
 * Sitemaps: https://github.com/ManOnDaMoon/omeka-s-module-Sitemaps
 * Siteswitcher: https://github.com/ManOnDaMoon/omeka-s-module-SiteSwitcher
 
+[![ko-fi](https://www.ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/H2H0IPOUY)
 
 ## Licensing
 
